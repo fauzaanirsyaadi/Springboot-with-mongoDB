@@ -26,7 +26,7 @@ use todo-manager-api
 
 + open `src/main/resources/application.properties`
 
-+ change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
++ change `spring.datasource.username` and `spring.datasource.password` 
 
 **4. Build and run the app using maven (springbootmongodb)**
 
