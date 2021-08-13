@@ -2,7 +2,7 @@
 
 Simple Todo apps with springboot and Mongo DB
 
-pre required
+[pre required]
 1. java SDK min version 11
 2. mongo db local server latest
 3. code editor (IDE)
@@ -20,5 +20,7 @@ hot to use it :
 3. get todo by id
 4. update todo by id
 5. delete todo by id
+- validator
+- exception
 
 Enjoyy
