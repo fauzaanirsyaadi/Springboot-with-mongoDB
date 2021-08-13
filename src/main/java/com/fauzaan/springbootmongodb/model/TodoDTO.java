@@ -28,6 +28,6 @@ public class TodoDTO {
 
     private Date createdAt;
 
-    private Date updateAt;
+    private Date updatedAt;
 
 }
