@@ -7,6 +7,7 @@ Simple Todo apps with springboot and Mongo DB
 2. mongo db local server latest
 3. code editor (IDE)
 4. API test, i use postman
+note : please check dependency version on pom.xml
 
 hot to use it :
 1. clone repo
